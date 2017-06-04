@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=io.eion.core.security.autoconfigure.CoreSecurityAutoConfiguration
