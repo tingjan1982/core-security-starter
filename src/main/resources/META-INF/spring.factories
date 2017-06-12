@@ -1,1 +1,3 @@
+# https://github.com/spring-projects/spring-boot/blob/v1.5.3.RELEASE/spring-boot-autoconfigure/src/main/resources/META-INF/spring.factories
+
 org.springframework.boot.autoconfigure.EnableAutoConfiguration=io.eion.core.security.autoconfigure.CoreSecurityAutoConfiguration

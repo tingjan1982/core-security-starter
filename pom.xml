@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>core-security-starter</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Reference: https://github.com/snicoll-demos/spring-boot-master-auto-configuration</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -30,8 +30,8 @@
 			<artifactId>spring-boot-autoconfigure</artifactId>
 		</dependency>
 		<dependency>
-			<groupId>ion.eion.core</groupId>
-			<artifactId>core-web-security</artifactId>
+			<groupId>io.eion.core</groupId>
+			<artifactId>core-security</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
