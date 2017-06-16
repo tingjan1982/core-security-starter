@@ -10,6 +10,6 @@ import org.springframework.context.annotation.Configuration;
  */
 @Configuration
 @AutoConfigureAfter(WebMvcAutoConfiguration.class)
-@ComponentScan("ion.eion.core.security")
+@ComponentScan("io.eion.core.security")
 public class CoreSecurityAutoConfiguration {
 }
